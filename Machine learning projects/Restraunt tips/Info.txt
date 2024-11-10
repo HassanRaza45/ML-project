@@ -1,0 +1,1 @@
+The Restaurant Tips Dataset, a trending dataset on Kaggle, provides valuable insights into customer behaviors and preferences in restaurant settings. In this report, we aim to analyze the dataset to uncover patterns and segments among customers using various data preprocessing, visualization, and unsupervised learning techniques.
